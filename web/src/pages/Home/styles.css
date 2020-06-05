@@ -1,6 +1,6 @@
 #page-home {
     height: 100vh;
-    /* NO ORIGINAL TAVA ASSIM
+    /* NO ORIGINAL TAVA ASSIM MAS A IMAGEM NÃO ESTAVA NO LUGAR CERTO
     background: url('../../assets/home-background.svg') no-repeat 600px bottom;*/
     background: url('../../assets/home-background.svg') no-repeat;
     background-position: 80vh 140px ; /*MUDANÇA MINHA*/
