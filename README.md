@@ -3,8 +3,9 @@
   <img alt="Ecoleta" src="https://github.com/DeboraMdaGama/Ecoleta-nlw/blob/master/tmp/logo.svg" height="60px" /><br/>
   <p align="center">----------------------------------------------------------------------------------------------------------------------------</p>
   <h3 align="center">Código do software Ecoleta desenvolvido durante a Next Level Week da Rocketseat.<h3>
+  <p align="center">----------------------------------------------------------------------------------------------------------------------------</p>
 </p>
-<p align="center">----------------------------------------------------------------------------------------------------------------------------</p>
+
 
 <p align="center">
   <a href="License" style="text-decoration: none">
