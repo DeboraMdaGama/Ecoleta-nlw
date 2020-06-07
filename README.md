@@ -1,9 +1,10 @@
 ![next level week](https://github.com/DeboraMdaGama/Ecoleta-nlw/blob/master/tmp/image1.jpg)
 <p align="center">
   <img alt="Ecoleta" src="https://github.com/DeboraMdaGama/Ecoleta-nlw/blob/master/tmp/logo.svg" height="60px" /><br/>
+  <p align="center">----------------------------------------------------------------------------------------------------------------------------</p>
   <h3 align="center">Código do software Ecoleta desenvolvido durante a Next Level Week da Rocketseat.<h3>
 </p>
-
+<p align="center">----------------------------------------------------------------------------------------------------------------------------</p>
 
 <p align="center">
   <a href="License" style="text-decoration: none">
@@ -16,7 +17,6 @@
     <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/DeboraMdaGama/ecoleta-nlw?color=34CB79" />
   </a>
 </p>
-
 
 <p align="center">
 <a href="#">
@@ -34,8 +34,7 @@
 </p>
 
 <p align="center">
-  <a href="external-api"><br/>External API</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
- <a href="clone-or-download">Clone or download</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+ <a href="clone-or-download"><br>Clone or download</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
    <a href="prototype">Prototype</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="preview">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
