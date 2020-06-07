@@ -67,6 +67,9 @@ A primeira parte que deve ser executada no ambiente de desenvolvimento é o serv
 cd server
 # inicie o backend
 npm run dev
+# inicie o arquivo de banco de dados
+npm run knex:migrate
+npm run knex:seed
 ```
 
 ### :computer:Frontend
