@@ -35,9 +35,7 @@
 
 <p align="center">
   <a href="external-api"><br/>External API</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
- <a href="backend">Backend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
- <a href="frontend">Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="mobile">Mobile</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+ <a href="clone-or-download">Clone or download</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
    <a href="prototype">Prototype</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="preview">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -162,5 +160,5 @@ Este projeto foi desenvovido sob a licença MIT. Veja o [LICENSE](./LICENSE) par
 
 ## :information_source: Author
 
-Esse projeto foi desenvolvido por Débora Gama. heart:  :runner: :wave:
+Esse projeto foi desenvolvido por Débora Gama.
 * [Linkedin](https://www.linkedin.com/in/debora-gama/)
