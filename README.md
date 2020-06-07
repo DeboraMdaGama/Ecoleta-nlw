@@ -1,4 +1,7 @@
-# Ecoleta-nlw
+![next level week](https://github.com/DeboraMdaGama/Ecoleta-nlw/blob/master/tmp/image1.jpg)
+
+![logo ecoleta](https://github.com/DeboraMdaGama/Ecoleta-nlw/blob/master/tmp/logo.svg)
+
 Código do software Ecoleta desenvolvido durante a Next Level Week da Rocketseat.
 
 ### Backend
