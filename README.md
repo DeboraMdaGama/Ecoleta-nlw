@@ -3,7 +3,7 @@
   <img alt="Ecoleta" src="https://github.com/DeboraMdaGama/Ecoleta-nlw/blob/master/tmp/logo.svg" height="60px" /><br/>
   <p align="center">----------------------------------------------------------------------------------------------------------------------------</p>
   <h3 align="center">Código do software Ecoleta desenvolvido durante a Next Level Week da Rocketseat.<h3>
-  <p align="center">----------------------------------------------------------------------------------------------------------------------------</p>
+  <p align="center">---------------------------------------------------------------------------------------------------</p>
 </p>
 
 
@@ -39,7 +39,7 @@
   <a href="technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
    <a href="prototype">Prototype</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="preview">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-   <a href="how-to-contribuite">How to contribute</a>
+   <a href="how-to-contribuite">How to contribute<br></a>
 </p>
 
 ## :cloud: External API
