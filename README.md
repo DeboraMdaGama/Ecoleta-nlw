@@ -39,6 +39,7 @@
   <a href="technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
    <a href="prototype">Prototype</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="preview">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="info">+ Info</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
    <a href="how-to-contribuite">How to contribute<br></a>
 </p>
 
@@ -127,6 +128,8 @@ Olha só como ficou:<br><br>
 </p>
 
 A API implementada no backend não possui interface gráfica própria. Para ver como ficou, confira o código aqui no repositório.
+## :information_source: Info
+Para mais informações acesse o * [Notion](https://www.notion.so/Next-level-Week-007a0d107de84f72903526ba306a59b9)
 
 ## :information_source: How to contribute
 

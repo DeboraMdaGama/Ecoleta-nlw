@@ -8,6 +8,7 @@ import {LeafletMouseEvent} from 'leaflet';
 import axios from 'axios';
 import api from '../../services/api';
 import Dropzone from '../../components/Dropzone';
+import ModalCreatePoint from '../../components/ModalCreatePoint';
 
 interface Item{
     id: number;
@@ -22,7 +23,7 @@ interface IBGE_city_response{
     nome: string;
 }
 
-const CreatePoint = () =>{
+const CreatePoint = ():JSX.Element  =>{
     
     const [itens, setItens] = useState<Item[]>([]);
     const [ufs, setUFs] = useState<string[]>([]);
@@ -36,6 +37,8 @@ const CreatePoint = () =>{
     const history = useHistory();
     const [selectedFile, setSelectedFile] = useState<File>();
 
+    const [success, setSuccess] = useState(false);
+
     useEffect(() =>{
         navigator.geolocation.getCurrentPosition(position =>{
             const {latitude, longitude} = position.coords;
@@ -45,6 +48,8 @@ const CreatePoint = () =>{
     useEffect(() =>{
         api.get('itens').then(response =>{
             setItens(response.data);
+            console.log('jhvjhg');
+            console.log(itens);
         });
     }, []);
     useEffect(() =>{
@@ -116,12 +121,29 @@ const CreatePoint = () =>{
 
         //const data = {name, email, whatsapp, uf, city, latitude, longitude, itens};
         
-        await api.post('points', data);
+       /*await api.post('points', data);
         alert('O Ponto de coleta foi criado!');
-        history.push('/');
+        history.push('/');*/
+        
+       await api
+      .post('points', data)
+      .then((sucess) => {
+        setSuccess(true);
+        setTimeout(() => {
+          setSuccess(false);
+          handleCloseSuccess();
+        }, 3000);
+      })
+      .catch(() => {
+        alert('Falha ao criar o Ponto de coleta!!');
+      });
+
+        
         
     }
-
+    function handleCloseSuccess() {
+        history.push('/');
+    }
 
     return(
         <div id="page-create-point">
@@ -218,6 +240,13 @@ const CreatePoint = () =>{
 
                 <button type="submit">Cadastrar ponto de coleta</button>
             </form>
+            {success && (
+                <ModalCreatePoint
+                show={success}
+                message="Ponto de Coleta cadastrado com sucesso!"
+                onCloseAction={handleCloseSuccess}
+                />
+            )}
         </div>
     );
 };
