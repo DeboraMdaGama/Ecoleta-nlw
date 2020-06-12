@@ -60,7 +60,7 @@ Se você utiliza o [Git](https://git-scm.com)a apenas clone esse repositório na
 $ git clone https://github.com/DeboraMdaGama/Ecoleta-nlw.git
 ```
 
-## :computer: Backend
+## Backend
 A primeira parte que deve ser executada no ambiente de desenvolvimento é o servidor `node.js`.
 <br>Comanndos para o backend ser executado:
 ```bash
