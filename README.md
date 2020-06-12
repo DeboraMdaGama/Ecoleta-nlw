@@ -120,7 +120,7 @@ Confira a lista completa de tecnologias utilizadas no arquivo `package.json`, pr
 `Link do protótipo`
 * [Protótipo do Ecoleta](https://www.figma.com/file/9TlOcj6l7D05fZhU12xWT3/Ecoleta-(Booster)?node-id=0%3A1) - Protótipo do sistema Ecoleta desenvolvido pela [Rocketseat](https://rocketseat.com.br).
 
-## :computer: Preview
+## Preview
 Olha só como ficou:<br><br>
 
 <p align="center">
